@@ -1,0 +1,53 @@
+.one{
+    background-color: lightblue;
+    width: auto;
+    border-radius: 50px;
+    background-position: 10px;
+    text-align:center;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2021/05/29/18/29/flower-6294006_1280.jpg);
+    background-position: center;
+    
+}
+.two{
+    background-color: burlywood;
+    border-width: 2px;l̥ō
+    border-style: solid;
+    border-radius: 50px;
+    text-align: center;
+}
+#perfume-11{
+    background-color: #3bcfdb;
+    
+}
+#perfume-22{
+    background-color: #92c5d1;
+    
+}
+#perfume-33{
+    background-color: #1aaebf;
+    
+}
+#perfume-44{
+    background-color: #597aa8;
+    
+}
+img{
+    border-radius: 50px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-style: solid;
+    width: 270px;
+    height: 270px;
+}
+.pktl{
+    text-align: end;
+    color: blueviolet;
+}
+.lsg{
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/24/10/58/sand-2005066_1280.jpg);
+    background-position: center;
+
+}
